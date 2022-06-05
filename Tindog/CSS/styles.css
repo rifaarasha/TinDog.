@@ -1,0 +1,86 @@
+/* headings */
+h2{
+  font-family: "montserrat-bold";
+font-size: 3rem;
+line-height: 1.5;
+}
+h3{
+  color: #8f8f8f;
+}
+
+
+h4{
+
+    color: #fff;
+
+text-align: center;
+  background-color: #ff4c68;
+font-size: 3rem;
+line-height:1.5;
+}
+/* class */
+.love{
+  text-align: center;
+    background-color: #ff4c68;
+    font-size: 3rem;
+    line-height:1.5;
+}
+.funny{
+    background-color: #ff4c68;
+}
+
+
+.super {
+  background-color: #ff4c68;
+
+}
+.row{
+  padding: 7% 15%;
+}
+
+
+
+
+
+
+
+
+
+
+.good-title{
+  text-align: center;
+  padding: 5%;
+}
+
+/* tesstimonial section */
+.dog-img{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.beverly-image{
+  padding: 7% 15%;
+  text-align: center;
+
+}
+
+
+.testimonial-image{
+  border-radius: 100%;
+margin: 20px;
+}
+
+/* image */
+.wonderful-image{
+  text-align: center;
+}
+/* pricing */
+.good-cards{
+  padding: 100px;
+}
+/* call to action(cta) */
+.cta-section{
+  background-color: #ff4c68;
+height: 100px;
+}
